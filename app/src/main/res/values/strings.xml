@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">GlidePlayer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="albumArt_description">Default album art</string>
+    <string name="track_artist">Unknown Artist</string>
+    <string name="track_title">Song Title</string>
+    <string name="track_album">Unknown Album</string>
+    <string name="alert_permissions_message">You have not granted storage read permission
+    to GlidePlayer! This permission is required for GlidePlayer to access songs on your device.
+    If you would like to grant permission to the app, click Okay. To exit, click Cancel.</string>
+    <string name="album_art_description">placeHolder for no album art</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel_selection">Cancel Selection</string>
+    <string name="add_to_queue_and_play">Add to queue and play</string>
+
+    <string name="about_license">Licenses:
+
+        \n\nThe triangle pattern background in the splash screen was created using "Delaunay triangulation pattern maker" by msurguy (https://github.com/msurguy) under the MIT License
+
+        \n\nLink: https://msurguy.github.io/triangles/
+
+        \n\nThe MIT License (MIT)
+
+        \n\nCopyright © 2014 Maksim Surguy
+
+        \n\nPermission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+
+        \n\nThe above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+
+        \n\nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.</string>
+</resources>
