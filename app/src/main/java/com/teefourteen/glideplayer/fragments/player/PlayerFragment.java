@@ -227,6 +227,7 @@ public class PlayerFragment extends Fragment implements PlayerService.SongListen
         showPlay();
         Toast.makeText(getContext(), "Unable to play " + playQueue.getCurrentPlaying().getTitle(),
                 Toast.LENGTH_LONG).show();
+        String value;
     }
 
     @Override
